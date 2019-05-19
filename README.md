@@ -94,7 +94,7 @@
 
 ### 后端面试进阶指南
 
-<a href="https://xiaozhuanlan.com/CyC2018">
+<a href="https://github.com/imgoogege/Backend-Interview-Guide">
     <img src="assets/小专栏.jpg" width="80px"></a>
     
 ### 内推信息
