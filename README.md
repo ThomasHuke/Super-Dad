@@ -1,21 +1,10 @@
-<div align="center">
-<a href="https://github.com/CyC2018/CS-Notes/blob/master/other/download.md">离线阅读版本下载</a>
-</div>
-
-<br>
+## Super-Dad
 
 | &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp; | 面向对象 | &nbsp;&nbsp;数据库&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;GO&nbsp;&nbsp;&nbsp; |系统设计 | &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; | 编码实践 |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
 | [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统)|[:cloud:](#cloud-网络) | [:art:](#art-面向对象) |[:floppy_disk:](#floppy_disk-数据库)|  [:coffee:](#coffee-java)|  [:fire:](#fire-go)| [:bulb:](#bulb-系统设计)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践)|
 
 <br>
-
-<div align="center">
-    <img src="assets/LogoMakr_0zpEzN.png" width="200px">
-    <br>
-    <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://img.shields.io/badge/>-read-4ab8a1.svg"></a>  <a href="https://xiaozhuanlan.com/CyC2018"> <img src="https://img.shields.io/badge/_-more-4ab8a1.svg"></a> 
-    <br> <br>
-</div>
 
 ## :pencil2: 算法
 
